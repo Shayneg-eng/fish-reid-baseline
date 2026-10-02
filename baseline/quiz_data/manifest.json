@@ -1,0 +1,197 @@
+{
+  "extractor": "megadescriptor",
+  "questions": [
+    {
+      "question": 1,
+      "query_image": "images/q1_query.png",
+      "model_correct": true,
+      "choices": [
+        {
+          "image": "images/q1_choice0.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q1_choice1.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q1_choice2.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q1_choice3.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q1_choice4.png",
+          "is_true_match": true,
+          "is_model_pick": true
+        }
+      ]
+    },
+    {
+      "question": 2,
+      "query_image": "images/q2_query.png",
+      "model_correct": true,
+      "choices": [
+        {
+          "image": "images/q2_choice0.png",
+          "is_true_match": true,
+          "is_model_pick": true
+        },
+        {
+          "image": "images/q2_choice1.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q2_choice2.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q2_choice3.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q2_choice4.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        }
+      ]
+    },
+    {
+      "question": 3,
+      "query_image": "images/q3_query.png",
+      "model_correct": false,
+      "choices": [
+        {
+          "image": "images/q3_choice0.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q3_choice1.png",
+          "is_true_match": true,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q3_choice2.png",
+          "is_true_match": false,
+          "is_model_pick": true
+        },
+        {
+          "image": "images/q3_choice3.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q3_choice4.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        }
+      ]
+    },
+    {
+      "question": 4,
+      "query_image": "images/q4_query.png",
+      "model_correct": false,
+      "choices": [
+        {
+          "image": "images/q4_choice0.png",
+          "is_true_match": true,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q4_choice1.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q4_choice2.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q4_choice3.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q4_choice4.png",
+          "is_true_match": false,
+          "is_model_pick": true
+        }
+      ]
+    },
+    {
+      "question": 5,
+      "query_image": "images/q5_query.png",
+      "model_correct": true,
+      "choices": [
+        {
+          "image": "images/q5_choice0.png",
+          "is_true_match": true,
+          "is_model_pick": true
+        },
+        {
+          "image": "images/q5_choice1.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q5_choice2.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q5_choice3.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q5_choice4.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        }
+      ]
+    },
+    {
+      "question": 6,
+      "query_image": "images/q6_query.png",
+      "model_correct": true,
+      "choices": [
+        {
+          "image": "images/q6_choice0.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q6_choice1.png",
+          "is_true_match": true,
+          "is_model_pick": true
+        },
+        {
+          "image": "images/q6_choice2.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q6_choice3.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        },
+        {
+          "image": "images/q6_choice4.png",
+          "is_true_match": false,
+          "is_model_pick": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+torch
+torchvision
+timm
+faiss-cpu
+opencv-python
+pytorch-metric-learning
+tqdm
+pillow
+numpy
+huggingface_hub
+requests
